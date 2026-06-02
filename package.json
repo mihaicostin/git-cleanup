@@ -1,0 +1,16 @@
+{
+  "name": "git-cleanup-branches",
+  "version": "1.0.0",
+  "description": "Clean up local git branches that no longer exist on remote",
+  "bin": {
+    "git-cleanup": "./index.js"
+  },
+  "keywords": [
+    "git",
+    "cleanup",
+    "branches",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
